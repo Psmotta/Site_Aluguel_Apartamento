@@ -1,0 +1,31 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: VOX
+authors:
+  - family-names: Santos Corradi de Oliveia
+    given-names: Artur 
+  - family-names: Rodrigues de Carvalho
+    given-names: Gabriel 
+  - family-names: Rogério Soares Vasconcelos
+    given-names: Igor 
+  - family-names: de Sousa Motta
+    given-names: Pedro 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vander Ramos
+    given-names: Claudiney 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Bastos De Paula
+    given-names: Hugo 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Christina de Paiva Carvalho
+    given-names: Joyce
+keywords:
+  - Aluguel
+  - Apartamento
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2021-1-ti2-0940100-aluguel-apartamento 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-06-20
